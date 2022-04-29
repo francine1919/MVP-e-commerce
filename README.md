@@ -15,8 +15,7 @@
 
 <h3>Ferramentas utilizadas para criar o projeto:</h3>
 
-<h4> Express </h4> 
-<h4> Axios </h4>        
+<h4> Express </h4>       
 <h4> Knex </h4> 
 <hr>
 &nbsp;
