@@ -6,13 +6,6 @@
 🛒  MVP para uma e-commerce.
 </h2>
 
-<h2 align="center">
-🛒  Endpoint e documentação
-</h2>
-<h4>https://hidden-bastion-75057.herokuapp.com/users</h4>
-<h4>https://documenter.getpostman.com/view/19296644/UyrEibEd</h4>
-
-
 <h3 align="center">Um projeto desenvolvido em TypeScript, MySQL e NodeJs. </h3>
 <hr>
 &nbsp;
@@ -27,7 +20,13 @@
 <h4> Knex </h4> 
 <hr>
 &nbsp;
+<h3>
+📖 Endpoint e documentação
+</h3>
+<h4>https://hidden-bastion-75057.herokuapp.com/users</h4>
+<h4>https://documenter.getpostman.com/view/19296644/UyrEibEd</h4>
 
+&nbsp;
 ## :black_nib: Autora
 
 Desenvolvedora do projeto
